@@ -1,4 +1,5 @@
 Este panel interactivo es el Producto Académico del curso Herramientas Informáticas I, dictado por el profesor Joel Jovani Turco Quinto en la Maestría en Economía con mención en Data Analytics de la Universidad Continental. Para la elaboración de este dashboard se usó el lenguaje R, transformamos las estadísticas históricas de Gapminder en un visor dinámico. Para asegurar su disponibilidad y transparencia, el código se subió a GitHub y la aplicación se desplegó en shinyapps 
+<img width="1023" height="526" alt="image" src="https://github.com/user-attachments/assets/4f6e6001-d4d8-46b5-9e4f-9dbf3de03f79" />
 
 1. Introducción
 El presente proyecto consiste en el desarrollo de un dashboard interactivo utilizando el lenguaje de programación R y el framework Shiny, aplicado a la base de datos Gapminder
